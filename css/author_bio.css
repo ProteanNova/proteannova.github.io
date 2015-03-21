@@ -1,0 +1,11 @@
+.thumbnail{
+	width: 280px;
+	overflow: hidden;
+	background-color: #3a3b39;
+	border:none;
+}
+.content h1, .content h2{
+	text-align: center;
+	border-color: #e6d5c3;
+	border-bottom: 2px solid;
+}
