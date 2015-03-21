@@ -9,6 +9,16 @@ body {
 	background-color: #3a3b39;
 	color: #e6d5c3;
 }
+.badge{
+	font-family: 'Open Sans', sans-serif;
+	color: #3a3b39;
+	margin-left: 5px;
+}
+
+.media-heading{
+	border-bottom: 2px solid;
+	border-color: #e6d5c3;
+}
 h1, h2, h3, h4 {
 	font-family: 'Kaushan Script', cursive;
 }
