@@ -3,3 +3,12 @@
 	border-color: #e6d5c3;
 	border-bottom: 2px solid;
 }
+
+.thumbnail{
+	background-color: #3a3b39;
+	border: none;
+}
+
+.thumbnail img{
+	max-height: 527px;
+}
