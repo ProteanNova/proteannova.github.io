@@ -1,0 +1,5 @@
+.content h1, .content h2{
+	text-align: center;
+	border-color: #e6d5c3;
+	border-bottom: 2px solid;
+}
