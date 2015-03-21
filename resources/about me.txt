@@ -19,3 +19,5 @@ Physical:
 Createspace.com
 Amazon.com
 
+https://www.createspace.com/5360801 -- physical book
+http://www.amazon.com/dp/B00UE1QSF6 -- physical and digital
