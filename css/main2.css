@@ -1,0 +1,43 @@
+h1, h2, h3, h4 {
+
+	font-family: 'Kaushan Script', cursive;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.content{
+	max-width: 980px;
+	margin: auto;
+}
+.navigation{
+	float:left;
+	width: 100%;
+	padding-bottom: 20px;
+}
+.navigation ol li {
+	list-style: none;
+	margin-right:15px;
+	padding-left:10px;
+	float: left;
+}
+.image{
+	width: 50%;
+	height: 50%;
+	margin: 10px, 20px, 5px, 10px;
+	float:left;
+}
+.image img {
+	width: 80%;
+	height: 80%;
+}
+
+.news {
+	float:left;
+	width: 50%;
+}
+
+.news h2 {
+	text-align: center;
+}
