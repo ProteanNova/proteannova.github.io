@@ -19,18 +19,17 @@ body {
 	border-bottom: 2px solid;
 	border-color: #e6d5c3;
 }
+
 h1, h2, h3, h4 {
 	font-family: 'Kaushan Script', cursive;
 }
 
-header {
+.page-header.header{
 	text-align: center;
-	font-size: 1.5em;
-	width: 80%;
-	margin: 0 auto;
 }
-.page-header{
-	text-align: center;
+
+.page-header h1{
+    font-size: 6em;
 }
 .navbar-nav li{
 	font-size: 1.25em;
@@ -52,4 +51,10 @@ header {
 	text-align: center;
 	width: 100%;
 	margin-top: 30px;
+}
+
+@media screen and (max-width: 510px) {
+    .page-header h1{
+        font-size: 3em;
+    }
 }
